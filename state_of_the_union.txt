@@ -1,0 +1,85 @@
+((Serbia): SMS Guidelines
+MCC: 220
+Dial Code: 381
+
+Alphanumeric Sender IDs are supported with registration. 
+Registration is possible to ensure Alphanumeric Senders can be maintained. Without registration, Alpha Senders will be overwritten to Generic Alpha Sender IDs. 
+The registration of Alphanumeric Senders involves monthly fees.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.
+For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.)
+
+
+(Republic of Korea (South Korea): SMS Guidelines
+MCC: 450
+Dial Code: 82
+Alphanumeric Sender IDs are not supported. Registration is not possible.
+All Alphanumeric Sender IDs will be overwritten to a random Local Long Code  to ensure delivery.
+All messages to this destination will have the following text added by default:
+[Web 발신] : This indicates A2P traffic
+[국제발신]: This indicates that the message has been sent from abroad
+Gambling and Adult content is not permitted.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.)
+
+
+((Zimbabwe): SMS Guidelines
+MCC: 648
+Dial Code: 263
+
+Alphanumeric Sender IDs are supported. There is a distinction between Local and International traffic.
+For local traffic, Alphanumeric Sender IDs are only supported through registration. International traffic does not require registration. Alphanumeric Senders will be supported.
+The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.
+For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.)
+
+
+((Kiribati): SMS Guidelines
+MCC: 545
+Dial Code: 686
+
+Alphanumeric Sender IDs are supported and will be maintained, no registration is required.
+There are no restrictions with regards to content towards this destination.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.)
+
+
+((Zambia): SMS Guidelines
+MCC: 645
+Dial Code: 260
+
+Alphanumeric Sender IDs are supported.
+For Network MTN (65402) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver.
+The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.
+For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.)
+
+
+((Yemen): SMS Guidelines
+MCC: 421
+Dial Code: 998
+
+Alphanumeric Sender IDs are supported. No registration is required.
+Occasionally Alphanumeric Sender ID might be overwritten to Random Short Code to ensure delivery.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.)
+
+
+
+((Virgin Islands) (British): SMS Guidelines
+MCC: 348
+Dial Code: 1340
+
+Alphanumeric Sender IDs are supported and will be maintained, no registration is required.
+There are no restrictions with regards to content towards this destination.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.)
+
+
+((Vietnam): SMS Guidelines
+MCC: 452
+Dial Code: 84
+
+Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required.
+The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content.
+Vietnam is a destination that supports SMSC-DLR only, as such positive DLRs are to be expected. Handset delivery reports are not possible.
+Please make sure to always refer to our Acceptable Use Policy for Messaging.
+For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.)
+
+
+

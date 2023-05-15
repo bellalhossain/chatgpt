@@ -13,7 +13,7 @@ from langchain.vectorstores import Pinecone
 from langchain.document_loaders import TextLoader
 import pinecone
 
-os.environ['OPENAI_API_KEY'] ='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'
+os.environ['OPENAI_API_KEY'] =''
 
 # App framework
 st.title('🦜🔗 LangChain ChatGPT')

@@ -49,8 +49,8 @@ embeddings = OpenAIEmbeddings()
  
 # initialize pinecone
 pinecone.init(
-    api_key="860c5621-0910-438e-9eb6-30b50dd6cff7",
-    environment="asia-southeast1-gcp-free"
+    api_key="",
+    environment=""
 )
 
 index_name = "langchain-demo"
